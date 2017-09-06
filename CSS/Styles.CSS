@@ -1,6 +1,9 @@
 
 img {
-    float:right;
+  display: block;
+  margin: auto;
+  height: 500px;
+  width: 500px;
 }
 
 h1 {
@@ -26,9 +29,13 @@ ol {
 }
 
 a {
-  text-align:left;
+  color: white;
+  text-align:left
 }
 
 body {
+  font-family: cursive;
+  font-size: 30px;
+  color: orange;
   background-image: url("http://az616578.vo.msecnd.net/files/2016/03/21/635941174584041355836077416_PALM.jpg");
 }
